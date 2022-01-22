@@ -24,4 +24,4 @@ contact:
   - {name: "Mobile", icon-class: "fa fa-phone-square", text: "182 1911 4681", link: "tel: 182 1911 4681"}
   - {name: "Email", icon-class: "fa fa-envelope", text: "zhangxingjing@caeri.com.cn", link: "mailto: zhangxingjing@caeri.com.cn"}
 social:
-  - {name: "CAERI", icon-class: "fa fa-github-square", text: "https://www.caeri.com.cn/", link: "https://www.caeri.com.cn/"}
+  - {name: "CAERI", icon-class: "fa fa-github-square", text: "https://www.caeri.com.cn", link: "https://www.caeri.com.cn/"}

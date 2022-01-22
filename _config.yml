@@ -21,8 +21,8 @@ permalink: /:categories/:title
 excerpt_separator: "[-----]"
 
 url: # Required: replace this with your domain
-name: SR Doctor # Required: will be displayed on every page's header
-title: 异响识别系统 # Required: site's default title
+name: SR-Doctor # Required: will be displayed on every page's header
+title: 中国汽研异响识别系统 # Required: site's default title
 shout: # Required: **TWO** lines, will be displayed on page's header.
   - 中国汽车工程研究院
 description: "SR-Doctor" # Required

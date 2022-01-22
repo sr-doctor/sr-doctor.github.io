@@ -19,9 +19,9 @@ skills:
     icon-class: "fa fa-cogs"
     list: ["Linux", "Docker", "Git", "SublimeText"]
 
-display_name: "YOUR NAME"
+display_name: "中国汽车工程研究院股份有限公司"
 contact:
-  - {name: "Mobile", icon-class: "fa fa-phone-square", text: "123 4567 8910", link: "tel: 123 4567 8010"}
-  - {name: "Email", icon-class: "fa fa-envelope", text: "example@example.com", link: "mailto: example@example.com"}
+  - {name: "Mobile", icon-class: "fa fa-phone-square", text: "182 1911 4681", link: "tel: 182 1911 4681"}
+  - {name: "Email", icon-class: "fa fa-envelope", text: "zhangxingjing@caeri.com.cn", link: "mailto: zhangxingjing@caeri.com.cn"}
 social:
-  - {name: "GitHub", icon-class: "fa fa-github-square", text: "https://github.com", link: "https://github.com"}
+  - {name: "CAERI", icon-class: "fa fa-github-square", text: "https://www.caeri.com.cn/", link: "https://www.caeri.com.cn/"}

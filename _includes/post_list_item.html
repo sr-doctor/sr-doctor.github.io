@@ -19,9 +19,9 @@
         <br>
         <hr class="clearfix">
         <p class="excerpt">
-            {{ post.excerpt | strip_html | truncatewords: 25 }}
+            {{ post.excerpt | strip_html | truncatewords: 10 }}
         </p>
     </div>
 
-    <button class="continue"><a href="{{ post.url | relative_url }}">FULL ARTICLE</a></button>
+    <button class="continue"><a href="{{ post.url | relative_url }}">全文</a></button>
 </article>

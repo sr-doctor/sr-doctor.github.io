@@ -22,11 +22,10 @@ excerpt_separator: "[-----]"
 
 url: # Required: replace this with your domain
 name: SR Doctor # Required: will be displayed on every page's header
-title: site title # Required: site's default title
+title: 异响识别系统 # Required: site's default title
 shout: # Required: **TWO** lines, will be displayed on page's header.
-  - one liner one...
-  - one liner two...
-description: "Some short description on your site" # Required
+  - 中国汽车工程研究院
+description: "SR-Doctor" # Required
 
 disqus:
   comments: true # Global toggle on/off disqus comment

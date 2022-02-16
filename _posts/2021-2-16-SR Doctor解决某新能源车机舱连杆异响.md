@@ -1,5 +1,5 @@
 ---
-category: 教程
+category: 案例
 tags: [tutorial]
 usemath: [latex, ascii]
 ---

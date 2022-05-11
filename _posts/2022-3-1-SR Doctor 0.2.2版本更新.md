@@ -3,7 +3,7 @@ category: 版本更新
 tags: [tutorial]
 usemath: [latex, ascii]
 ---
-# 版本0.2.2预计更新的功能
+# 版本0.2.2更新的功能
 ## 增加麦克风数据采集适配
 现在您可以采集IEPE麦克风音频数据啦
 

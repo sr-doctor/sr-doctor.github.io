@@ -24,3 +24,5 @@ usemath: [latex, ascii]
 ![]({{ '/assets/img/微信图片_20220831031509.png' | relative_url }})
 
 ![]({{ '/assets/img/微信图片_20220831031622.png' | relative_url }})
+
+新版本采集的数据放在C盘“文档”文件夹中的“SR DOCTOR”文件夹内
